@@ -217,10 +217,11 @@ The project code authored for this repository by **Soumyadeep Jana** is licensed
 
 GluFormer source or reference implementation, model checkpoints and weights, the CGMacros dataset and derived data, dependencies, and other externally sourced assets remain subject to their respective original licenses, access conditions, and usage terms. Verify those terms and obtain any required permissions before using or redistributing them. The CGMacros dataset's terms are separate from this project's code license.
 
-## 17. Architecture and presentation links
+## 17. Project Resources
 
-- Architecture diagram: Mermaid diagram above. Exported diagram file/link: **[Add link when available]**
-- Project presentation/slides: **[Add link when available]**
+- **Project Presentation:** [View Diabetes Digital Twin Presentation on Gamma](https://gamma.app/docs/Diabetes-Digital-Twin-GluFormer-Based-Glucose-Forecasting-p1q5nqwhrq2pw5h)
+- **System Architecture Diagram:** [View Architecture PDF](https://github.com/Soumyadeep99/Digital-Twin/blob/main/diabetes_digital_twin_architecture.pdf)
+- Architecture diagram: Mermaid diagram above.
 
 ## 18. Demo video
 
