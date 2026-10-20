@@ -211,9 +211,11 @@ CGMacros is a multimodal research dataset with CGM, activity, dietary/macronutri
 - Input readings must be complete and exactly five minutes apart. There is no automatic gap filling or live device ingestion.
 - Forecasts and spike flags are research estimates only. They are not a diagnosis, medical advice, clinical alerts, or a substitute for a licensed clinician or validated device.
 
-## 16. License
+## 16. Open-Source License
 
-There is currently **no root `LICENSE` file**. No open-source license is claimed for this project yet. Add a `LICENSE` file and confirm rights for all included code and assets before representing the repository as open source. CGMacros remains governed by its own dataset terms.
+The project code authored for this repository by **Soumyadeep Jana** is licensed under the MIT License; see the root [`LICENSE`](LICENSE) file. This license applies only to project material that the copyright holder owns or is authorized to license. It does not relicense or grant rights to third-party material.
+
+GluFormer source or reference implementation, model checkpoints and weights, the CGMacros dataset and derived data, dependencies, and other externally sourced assets remain subject to their respective original licenses, access conditions, and usage terms. Verify those terms and obtain any required permissions before using or redistributing them. The CGMacros dataset's terms are separate from this project's code license.
 
 ## 17. Architecture and presentation links
 
@@ -243,5 +245,4 @@ This prototype uses the Gluformer model implementation and preprocessing referen
 - Exported architecture diagram link/file
 - Presentation/slides link/file
 - Required 15–20-minute unlisted YouTube demo URL
-- A root `LICENSE` file after selecting and confirming the project license
 - Confirmation of whether Unstop requires the original Gluformer source/config files to be included verbatim; this checkout currently contains a compatible local implementation and test, but not the upstream files as separate vendored artifacts
