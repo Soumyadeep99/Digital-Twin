@@ -225,7 +225,7 @@ GluFormer source or reference implementation, model checkpoints and weights, the
 
 ## 18. Demo video
 
-Required Unstop submission video (15–20 minutes, unlisted YouTube): **[Add unlisted YouTube URL]**
+Required Unstop submission video (15–20 minutes, unlisted YouTube): [**[Canva URL]**](https://canva.link/iumrntegegzjo1h)
 
 ## 19. Contributions
 
